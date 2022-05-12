@@ -23,4 +23,4 @@ function gerarTabelaBonus(n){
     }
     return tabela
 }
-console.table(gerarTabelaBonus(7))
+console.table(gerarTabelaBonus(2))
